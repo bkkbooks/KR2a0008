@@ -2598,6 +2598,7 @@ markers:
   - {type: substitution, offset: 9969, original: 将, replacement: 將, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16985}}
   - {type: substitution, offset: 9980, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20162}}
   - {type: punctuation, offset: 9982, content: (, id: KR2a0008_krp_023-bkkpn1}
+  - {type: voice, offset: 9982, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 9983, content: /, id: KR2a0008_krp_023-bkkpn2}
   - {type: punctuation, offset: 9984, content: ), id: KR2a0008_krp_023-bkkpn3}
   - {type: 'kr:newline', offset: 9984, content: '
@@ -3037,4 +3038,4 @@ markers:
 
       ', id: KR2a0008_krp_023-bkkkrnewl629}
   back: []
-hash: sha256:a56725c6d1eb8aedc8c181e8c02442703fb803a27dbe4846d2b87db356405b1a
+hash: sha256:af40cb33c6d74c396c1a3f38ebe57827dd240eaf35c420edfb3a7061bc838474
